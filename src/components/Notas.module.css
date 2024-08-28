@@ -1,0 +1,11 @@
+.notasContainer{
+    background-color:darkslategray;
+    padding: 50px;
+    color:blue;
+}
+
+.notasContent{
+    color:rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: largers;
+}
